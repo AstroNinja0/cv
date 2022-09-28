@@ -11,7 +11,7 @@
         <table cellspacing="20">
             <tr>
                 <td>
-                    <img src="/home/astroninja/Downloads/4ba.png" alt="nigga">
+                    <img src="https://pbs.twimg.com/media/EqEvk3NVQAMklA9?format=jpg&name=small" alt="nigga">
                 </td>
                 <td>
                     <h1>Welcome to my epic webpage!</h1>
